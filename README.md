@@ -7,6 +7,6 @@
   
 ### Tecnologias  
 <p>Este projeto está sendo desenvolvido utilizando arquitetura REST em Java com Spring Boot, Spring MVC, Spring Data JPA, e Spring Security.</p>
-<p>Para realizar os testes da API, está sendo utilizando o Postman, que é uma ferramenta de testes de requisições via HTTP</p>
+<p>Para realizar os testes da API, está sendo utilizando o Postman, que é uma ferramenta de testes de requisições via HTTP.</p>
 
 
